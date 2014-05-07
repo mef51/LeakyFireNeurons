@@ -46,7 +46,7 @@ and then calculate the values of `V[]` for each point in time! Then you plot tha
 ```python
 import numpy
 
-timeLine = numpy.arange(0, 50, dt)
+timeLine = numpy.arange(0, 50, dt) # [0, 0.125, 0.25, ... 50]
 V = numpy.zeros(len(timeLine)) # [0, 0, 0, 0...]
 
 for i, t in enumerate(timeLine):
