@@ -3,8 +3,8 @@
 
 'Leaky Integrate and Fire' is a simple model (differential equation) of
 voltage spikes (called action potentials) in a Neuron cell. These voltage spikes
-are voltage differences across the inside of the cell's membrance and outside of it.
-Action potentials propogate down long tendrils of the neuron cell called *axons*
+are voltage differences across the inside of the cell's membrane and outside of it.
+Action potentials propagate down long tendrils of the neuron cell called *axons*
 until they reach another neuron, where that neuron gets stimulated and generates
 it's own action potentials (voltage spikes). It's the stuff thoughts are made of.
 
